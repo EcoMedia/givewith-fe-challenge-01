@@ -9,9 +9,9 @@ All the best and we are eager to see what you create!
 You'll be building a simple single-page application (user interface) that shows a list of recipes and allows sorting, searching, filtering and pagination of the recipes.
 
 We have provided you with 3 files:
-    - mockup.png
-    - recipes.json
-    - star.svg
+- mockup.png
+- recipes.json
+- star.svg
 
 `mockup.png` shows a simple mockup of the application you will be building. It shows a recommended layout of your application's features but feel free to get creative.
 
@@ -24,29 +24,31 @@ Below lists the required features your application should have and optional feat
 ### Required Features
 - [ ] Recipe tiles are displayed on a page with an `image`, `name`, `description` (truncate to one line), `author` and a favorite button
 
-- [ ] Clicking on the star on a favorited tile unfavorites it and vice-versa (this is indicated by a change in the color of the star)
+- [ ] Clicking on the star (favorite button) on a favorited tile unfavorites it and vice-versa (this is indicated by a change in the color of the star)
 
 - [ ] Disabled recipe tiles (recipes with disabled = true) have a black transparent overlay and cannot be favorited
 
-- [ ] A user can search for a recipe using via its `name` or `author`
+- [ ] A user can search for a recipe using its `name` or `author`
 
-- [ ] A user can sort recipes by either `name` or `author` (default - `name`)
+- [ ] A user can sort recipes by either its `name` or `author` (default - `name`)
+
+- [ ] The recipe list is paginated (pagination is disabled when searching and/or filtering is active)
 
 ### Optional Features
-- [ ] A user can filter recipe list by `protein` type (multiple filters can be applied at the same time)
+- [ ] A user can filter recipe list by `protein` type (multiple filters can be applied at the same time); searching is still active when filtering
 
-- [ ] Recipe list is paginated (pagination is disabled when searching or filtering is active)
+- [ ] If recipe list is paginated, a user can change how many recipes are shown per page
 
-- [ ] If recipe list is paginated, can change how many recipes are shown per page
 
+# Getting Started
 
 To get started, please clone this repo.
 
-## Reminders
+You may use any front-end technologies you would like to create the user interface. We are familiar with [React](https://reactjs.org/) + [Typescript](https://www.typescriptlang.org/) and we've heard great things about [Vue](https://vuejs.org/). We recommend using whatever you're comfortable with.
 
-You may use any front-end technologies you would like to create the user interfaces. We are familiar with [React](https://reactjs.org/) + [Typescript](https://www.typescriptlang.org/) and we've heard great things about [Vue](https://vuejs.org/). We recommend using whatever you're comfortable with.
+Please limit your time on this exercise to a few hours
 
-Please limit your time on this exercise to a few hours.
+## Submission
 
 When complete, you can either create and send a link to a public or private GitHub repository (be sure to add `justin-givewith` as a collaborator if private), or send a ZIP of the completed exercise.
 
