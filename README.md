@@ -44,7 +44,7 @@ Below lists the required features your application should have and optional feat
 
 To get started, please clone this repo.
 
-You may use any front-end technologies you would like to create the user interface. We are familiar with [React](https://reactjs.org/) + [Typescript](https://www.typescriptlang.org/) and we've heard great things about [Vue](https://vuejs.org/). We recommend using whatever you're comfortable with.
+You may use any front-end technologies you would like to create the user interface. We are familiar with [React](https://reactjs.org/) + [Typescript](https://www.typescriptlang.org/) and we've heard great things about [Vue](https://vuejs.org/), but please use whatever you're comfortable with.
 
 Please limit your time on this exercise to a few hours
 
