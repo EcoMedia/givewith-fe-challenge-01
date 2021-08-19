@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Sugar Cookies",
+        "description": "Versatile sugar cookie dough is like edible modeling clay. It can be simply rolled into balls and baked, like snickerdoodles, but when you want to take it further and cut sugar cookie into shapes, like The Best Rolled Sugar Cookies, these tips will help your sugar cookie cut-outs turn out beautifully every time.",
+        "image": "https://unsplash.com/photos/jEDxO6y2PzY/download?w=640",
+        "protein": "None",
+        "author": "Diane Cash"
+    },
+    {
+        "name": "Thick Cut-Outs",
+        "description": "A big batch of big thick sugar cookies. These are THE big soft sugar cookies you have been looking for. Frost them while warm and sprinkle with colored sugar.",
+        "image": "https://unsplash.com/photos/E5Jd89YVJCk/download?w=640",
+        "protein": "None",
+        "author": "Jennifer Schmidt"
+    },
+    {
+        "name": "Chicken Pot Pie IX",
+        "description": "A delicious chicken pot pie made from scratch with carrots, peas, and celery for a comfort…",
+        "image": "https://unsplash.com/photos/Uju0eqW7G7U/download?w=640",
+        "disabled": true,
+        "protein": "Chicken",
+        "author": "Dilyara Garifullina"
+    },
+    {
+        "name": "Ginger-Chicken Stir Fry",
+        "description": "Stir fries require very little cooking time and you can pretty much use any vegetables you like, but the star of this one is the ginger. This dish is quick and easy to make, but get all of your ingredients together (including mixing the sauce) before you start cooking because everything happens fast! Serve with rice, and garnish with sliced green onions.",
+        "image": "https://unsplash.com/photos/LUv656869_A/download?w=640",
+        "protein": "Chicken",
+        "author": "Sam Moqadam"
+    },
+    {
+        "name": "Air Fryer Keto Chicken Wings",
+        "description": "These air-fried chicken wings are finished in under 15 minutes and a great dish if you are on the keto diet. If desired, separate wings into drumettes.",
+        "image": "https://unsplash.com/photos/Yh9Ut4d3K0A/download?w=640",
+        "protein": "Chicken",
+        "author": "Atharva Tulsi"
+    },
+    {
+        "name": "Chicken Fajita Cauliflower Pizza",
+        "description": "All your favorite chicken fajita flavors on a delicious, better-for-you cauliflower pizza crust!",
+        "image": "https://unsplash.com/photos/MqT0asuoIcU/download?w=640",
+        "disabled": true,
+        "protein": "Chicken",
+        "author": "Chad Montano"
+    },
+    {
+        "name": "Margherita Pizza with Sausage and Pesto",
+        "description": "Two of my favorite ingredients, pesto sauce and sausage, come together to make one of my family's favorite foods: pizza! They loved how crispy, melty, and cheesy it was! Feel free to adjust ingredients according to your personal tastes.",
+        "image": "https://unsplash.com/photos/oBbTc1VoT-0/download?w=640",
+        "protein": "Turkey",
+        "author": "Karthik Garikapati"
+    },
+    {
+        "name": "Taco Salad Pizza",
+        "description": "When you can't decide between pizza and tacos, make both! Save time by starting with a pre-made frozen CAULIPOWER® crust.",
+        "image": "https://unsplash.com/photos/EvoIiaIVRzU/download?w=640",
+        "disabled": true,
+        "protein": "Beef",
+        "author": "Taylor Kiser"
+    },
+    {
+        "name": "Southern Chicken Burrito",
+        "description": "Your standard chicken burrito with a southern twist",
+        "image": "https://unsplash.com/photos/8lA4s3WjBds/download?w=640",
+        "protein": "Chicken",
+        "author": "Johnny Cash"
+    },
+    {
+        "name": "Chicken Salad",
+        "description": "just your average chicken salad passing through.",
+        "protein": "Chicken",
+        "image": "https://unsplash.com/photos/kcA-c3f_3FE/download?w=640",
+        "author": "Anh Nguyen"
+    }
+]
