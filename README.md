@@ -22,16 +22,22 @@ We have provided you with 3 files:
 Below lists the required features your application should have and optional features you can implement if you're feeling adventurous!
 
 ## Required Features
-    [ ] Recipe tiles are displayed on a page with an `image`, `name`, `description` (truncate to one line), `author` and a favorite button
-    [ ] Clicking on the star on a favorited tile unfavorites it and vice-versa (this is indicated by a change in the color of the star)
-    [ ] Disabled recipe tiles (recipes with disabled = true) have a black transparent overlay and cannot be favorited
-    [ ] Can search for a recipe using via its `name` or `author`
-    [ ] Can sort recipes by either `name` or `author` (default - `name`)
+[ ] Recipe tiles are displayed on a page with an `image`, `name`, `description` (truncate to one line), `author` and a favorite button
+
+[ ] Clicking on the star on a favorited tile unfavorites it and vice-versa (this is indicated by a change in the color of the star)
+
+[ ] Disabled recipe tiles (recipes with disabled = true) have a black transparent overlay and cannot be favorited
+
+[ ] Can search for a recipe using via its `name` or `author`
+
+[ ] Can sort recipes by either `name` or `author` (default - `name`)
 
 ## Optional Features
-    [ ] Can filter recipe list by `protein` type (multiple filters can be applied at the same time)
-    [ ] Recipe list is paginated (pagination is disabled when searching or filtering is active)
-    [ ] If recipe list is paginated, can change how many recipes are shown per page
+[ ] Can filter recipe list by `protein` type (multiple filters can be applied at the same time)
+
+[ ] Recipe list is paginated (pagination is disabled when searching or filtering is active)
+
+[ ] If recipe list is paginated, can change how many recipes are shown per page
 
 To get started, please clone this repo.
 
