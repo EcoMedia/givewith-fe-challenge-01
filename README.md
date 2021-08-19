@@ -41,6 +41,7 @@ Below lists the required features your application should have and optional feat
 
 - [ ] If recipe list is paginated, a user can change how many recipes are shown per page
 
+*NOTE: we prefer you do not use any special external packages, native html elements and vanilla should work just fine*
 
 # Getting Started
 
