@@ -8,6 +8,8 @@ All the best and we are eager to see what you create!
 ## Overview
 You'll be building a simple single-page application (user interface) that shows a list of recipes and allows sorting, searching, filtering and pagination of the recipes.
 
+![Mockup](mockup.png)
+
 We have provided you with 3 files:
 - mockup.png
 - recipes.json
