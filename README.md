@@ -53,6 +53,6 @@ Please limit your time on this exercise to a few hours
 
 ## Submission
 
-When complete, you can either create and send a link to a public or private GitHub repository (be sure to add `justin-givewith` as a collaborator if private), or send a ZIP of the completed exercise.
+When complete, you can either create and send a link to a public or private GitHub repository (be sure to add `daobeng` as a collaborator if private), or send a ZIP of the completed exercise.
 
-Feel free to reach out to [Justin](mailto:justin.travis@givewith.com) with any questions!
+Feel free to reach out to [Daniel](mailto:daniel@givewith.com) with any questions!
