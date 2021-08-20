@@ -34,14 +34,14 @@ Below lists the required features your application should have and optional feat
 
 - [ ] A user can sort recipes by either its `name` or `author` (default - `name`)
 
+### Optional Features
 - [ ] The recipe list is paginated (pagination is disabled when searching and/or filtering is active)
 
-### Optional Features
 - [ ] A user can filter recipe list by `protein` type (multiple filters can be applied at the same time); searching is still active when filtering
 
 - [ ] If recipe list is paginated, a user can change how many recipes are shown per page
 
-*NOTE: we prefer you do not use any special external packages, native html elements and vanilla should work just fine*
+*NOTE: we prefer you do not use any special external packages, native html elements and some javascript/typescript should work just fine*
 
 # Getting Started
 
